@@ -1,11 +1,8 @@
-package br.com.dio.desafio.dominio;
+package br.com.dio.desafio.dominio.banco;
 
-import java.time.LocalDate;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
+import br.com.dio.desafio.dominio.banco.Conta;
+
 import java.util.List;
-import java.util.Objects;
-import java.util.Set;
 
 public class Banco {
 

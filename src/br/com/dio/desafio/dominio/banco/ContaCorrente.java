@@ -1,6 +1,9 @@
-package br.com.dio.desafio.dominio;
+package br.com.dio.desafio.dominio.banco;
 
-public class ContaCorrente extends Conta{
+import br.com.dio.desafio.dominio.banco.Cliente;
+import br.com.dio.desafio.dominio.banco.Conta;
+
+public class ContaCorrente extends Conta {
 
 
   public ContaCorrente(Cliente cliente) {

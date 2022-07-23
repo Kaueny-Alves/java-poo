@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio;
+package br.com.dio.desafio.dominio.banco;
 
 public class Cliente {
   private String nome;

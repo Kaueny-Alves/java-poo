@@ -1,6 +1,6 @@
-package br.com.dio.desafio.dominio;
+package br.com.dio.desafio.dominio.banco;
 
-public class ContaPoupanca extends Conta{
+public class ContaPoupanca extends Conta {
 
   public ContaPoupanca(Cliente cliente) {
     super(cliente);
